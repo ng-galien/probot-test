@@ -1,4 +1,4 @@
-# **DRAFT: Probot CI/CD**
+# **Probot CI/CD**
 
 Github App/Action to run CI/CD pipelines in JavaScript.
 
